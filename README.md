@@ -1,4 +1,4 @@
-#Square of Numbers
+# Square of Numbers
 steps to print square of numbers
 
 1. Accept a number n from the user 
